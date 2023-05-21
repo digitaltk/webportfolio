@@ -70,7 +70,7 @@ const About = () => {
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
                     <span>Address :</span>
-                    <span>Harare</span>
+                    <span>Johannesburg</span>
                   </span>
                 </span>
               </li>
@@ -78,7 +78,7 @@ const About = () => {
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
                     <span>Whatsapp :</span>
-                    <span>+279876823</span>
+                    <span>+2769876823</span>
                   </span>
                 </span>
               </li>

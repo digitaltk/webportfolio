@@ -12,7 +12,7 @@ const Home = () => {
             <span className="position-relative">
               <span className="animated-layer">I am</span>
               <span className="intro animated-layer">
-                Data Analyst/Scientist with 3 years experience based in Harare
+                Data Analyst/Digital Specialist with 3 years experience.
               </span>
             </span>
             <span>

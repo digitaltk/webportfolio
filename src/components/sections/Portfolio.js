@@ -31,38 +31,38 @@ const Portfolio = () => {
           <div className="main-content">
             <img
               className="img-fluid"
-              src="assets/portfolio/unemployment.png"
+              src="assets/portfolio/portfolio-001.png"
               alt="Image Project"
             />
           </div>
           {/* ITEM MAIN CONTENT ENDS */}
           {/* ITEM DETAILS STARTS */}
           <div className="details">
-            <h4>Unemployment Data Analysis</h4>
+            <h4>Web Redesign</h4>
             <div>
               <ul>
                 <li>
                   <span>
                     <i className="fa-regular fa-file-lines" /> Project :
                   </span>
-                  <span>End to End Data Analysis</span>
+                  <span>Web Redesign</span>
                 </li>
                 
                 <li>
                   <span>
                     <i className="fa-regular fa-hourglass" /> Duration :
                   </span>
-                  <span>3 months</span>
+                  <span>1 months</span>
                 </li>
                 <li>
                   <span>
                     <i className="fa-solid fa-code-branch" /> Frameworks :
                   </span>
-                  <span>PowerBI, DAX, SQL, Python</span>
+                  <span>Wordpress</span>
                 </li>
               </ul>
             </div>
-            <a href="https://github.com/digitaltk" target="_blank" className="custom-btn">
+            <a href="#" target="_blank" className="custom-btn">
               <span>
                 preview <i className="fa-solid fa-arrow-up-right-from-square" />
               </span>
@@ -77,21 +77,21 @@ const Portfolio = () => {
           <div className="main-content">
             <img
               className="img-fluid"
-              src="assets/portfolio/postgresql.png"
+              src="assets/portfolio/portfolio-005.png"
               alt="Image Project"
             />
           </div>
           {/* ITEM MAIN CONTENT ENDS */}
           {/* ITEM DETAILS STARTS */}
           <div className="details">
-            <h4>PostgreSQL</h4>
+            <h4>Certification</h4>
             <div>
               <ul>
                 <li>
                   <span>
                     <i className="fa-regular fa-file-lines" /> Project :
                   </span>
-                  <span>Analyze International Debt Statistics with PostgreSQL Project</span>
+                  <span>Digital Marketing Associate Certification</span>
                 </li>
               
                 <li>
@@ -102,13 +102,13 @@ const Portfolio = () => {
                 </li>
                 <li>
                   <span>
-                    <i className="fa-solid fa-code-branch" /> Frameworks :
+                    <i className="fa-solid fa-code-branch" /> School :
                   </span>
-                  <span>PostgreSQL, Python, Data Analysis</span>
+                  <span>Digital Marketing Institute</span>
                 </li>
               </ul>
             </div>
-            <a href="https://github.com/digitaltk/Analyze-International-Debt-Statistics" target="_blank" className="custom-btn">
+            <a href="https://certs.digitalmarketinginstitute.com/938176c6-f5a3-437e-aebb-1084296f703c#gs.yu4d20" target="_blank" className="custom-btn">
               <span>
                 preview <i className="fa-solid fa-arrow-up-right-from-square" />
               </span>
@@ -126,10 +126,10 @@ const Portfolio = () => {
               className="swiper swiper-portfolio-item"
             >
               <SwiperSlide className="swiper-slide">
-                <img src="assets/portfolio/project-2.png" title="img" />
+                <img src="assets/portfolio/portfolio-003.png" title="img" />
               </SwiperSlide>
               <SwiperSlide className="swiper-slide">
-                <img src="assets/portfolio/project-3.png" title="img" />
+                <img src="assets/portfolio/portfolio-004.png" title="img" />
               </SwiperSlide>
               <SwiperSlide className="swiper-slide">
                 <img src="assets/portfolio/project-1.png" title="img" />
@@ -140,30 +140,30 @@ const Portfolio = () => {
           {/* ITEM MAIN CONTENT ENDS */}
           {/* ITEM DETAILS STARTS */}
           <div className="details">
-            <h4>Advanced DS/ DA Projects</h4>
+            <h4>Google</h4>
             <div>
               <ul>
                 <li>
                   <span>
                     <i className="fa-regular fa-file-lines" /> Project :
                   </span>
-                  <span>Data Science/ Analysis </span>
+                  <span>Google Ads</span>
                 </li>
                 <li>
                   <span>
                     <i className="fa-regular fa-hourglass" /> Duration :
                   </span>
-                  <span>3 months</span>
+                  <span>Lifetime</span>
                 </li>
                 <li>
                   <span>
                     <i className="fa-solid fa-code-branch" /> Frameworks :
                   </span>
-                  <span>PowerBI, Excel, Python, Dax, PowerQuery, ETL</span>
+                  <span>Search, Display, Video, Analytics, Tag Manager</span>
                 </li>
               </ul>
             </div>
-            <a href="https://github.com/digitaltk" target="_blank" className="custom-btn">
+            <a href="https://certs.digitalmarketinginstitute.com/profile/dr-marketing/wallet" target="_blank" className="custom-btn">
               <span>
                 preview <i className="fa-solid fa-arrow-up-right-from-square" />
               </span>
@@ -221,7 +221,7 @@ const Portfolio = () => {
                   <span>
                     <i className="fa-solid fa-code-branch" /> Frameworks :
                   </span>
-                  <span>Python, SAS,<br/>MS Stack(SSIS, SSAS, SSRS), Power BI, DAX, SQL, <br/> Python, Excel (VLOOKUP and Pivot Tables)</span>
+                  <span>Python, SAS,<br/>MS Stack <br/> Python, Excel (VLOOKUP and Pivot Tables)</span>
                 </li>
               </ul>
             </div>

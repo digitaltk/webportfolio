@@ -22,7 +22,7 @@ const Contact = () => {
             <i className="fa fa-phone" />
             <p>
               <span className="small-text">WhatsApp</span>
-              +263778323993
+              +2769876823
             </p>
           </div>
           {/* CONTACT ITEM ENDS */}
@@ -31,7 +31,7 @@ const Contact = () => {
             <i className="fa fa-location-dot" />
             <p>
               <span className="small-text">address</span>
-              Harare, Zimbabwe
+              JHB, South Africa
             </p>
           </div>
           {/* CONTACT ITEM ENDS */}
